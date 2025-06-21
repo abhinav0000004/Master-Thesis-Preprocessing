@@ -1,4 +1,4 @@
-# 📱 Smartphone Pose Estimation
+# 📱 MaD Pose Challenge (MaDPC) Dataset 
 
 This project provides preprocessing, visualization, and benchmarking tools for the **MaD Pose Challenge (MPC)** dataset. It focuses on cleaning and formatting marker data, comparing interpolation methods, and preparing the data for integration with the [AddBiomechanics](https://addbiomechanics.org/) platform.
 
